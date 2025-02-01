@@ -1,5 +1,5 @@
 ---
-title: Example Category
+title: Papers
 description: A description of this category
 image:
 
