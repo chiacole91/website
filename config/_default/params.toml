@@ -14,7 +14,7 @@ lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
 emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+subtitle = "I am a Senior Researcher at the University of Zurich. I am also a Visiting Researcher at the Columbia University, a Visiting Fellow at CETEx at LSE and a founding member of the sustainable macro research network. My research focuses on environmental economics and sustainable finance."
 
 [sidebar.avatar]
 enabled = true
@@ -31,8 +31,8 @@ enabled = true
 default = "Licensed under CC BY-NC-SA 4.0"
 
 ## Widgets
-[[widgets.homepage]]
-type = "search"
+# [[widgets.homepage]]
+# type = "search"
 
 [[widgets.homepage]]
 type = "archives"
@@ -40,11 +40,11 @@ type = "archives"
 [widgets.homepage.params]
 limit = 5
 
-[[widgets.homepage]]
-type = "categories"
+# [[widgets.homepage]]
+# type = "categories"
 
-[widgets.homepage.params]
-limit = 10
+# [widgets.homepage.params]
+# limit = 10
 
 [[widgets.homepage]]
 type = "tag-cloud"
