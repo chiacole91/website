@@ -1,5 +1,5 @@
 ---
-title: Paper
+title: Paper tryy
 description: xxx
 slug: archive
 date: 2022-03-06 00:00:00+0000
